@@ -115,9 +115,9 @@ Custom DAX measures power all dynamic KPIs and visuals:
 
 ## 🔗 Files & Access
 
-- [Dummy Dataset](data/dax_measures.md) – Dummy dataset  
+- [Dummy Dataset](data) – Dummy dataset  
 - [Power BI Report (.pbix)](Global_Revenue_BI_Report.pbix) – Interactive report  
-- [DAX Measures](docs/dax_measures.md) – DAX Measures used across the BI report
+- [DAX Measures](dax_measures.md) – DAX Measures used across the BI report
 
 
 ---
