@@ -1,4 +1,4 @@
-# 📊 Commercial Revenue Dashboard (Case Study)
+# 📊 Global Revenue Dashboard (Case Study)
 
 **Power BI | DAX | Data Automation | Enterprise BI**
 
@@ -58,6 +58,8 @@ A high-level snapshot of performance by multiple business angles.
 - Navigation: Bookmark buttons for page switching
 - Tooltips: Custom tooltip pages for visual interactivity
 
+
+![Overview](images/overview.PNG)
 ---
 
 ### **Page 2: Category Deep Dive**
@@ -74,6 +76,7 @@ Focused view on revenue by business category and sub-category.
 - Page slicers: Category
 - Navigation as on other pages
 
+![Category Deep Dive](images/category_deep_dive.PNG)
 ---
 
 ### **Page 3: Regional Analysis**
@@ -87,6 +90,7 @@ Region-first view with growth metrics and visual mapping.
 - Page slicers: Region 
 - Interactive navigation included
 
+![Regional Analysis](images/regional_analysis.PNG)
 ---
 
 ## 🧮 Key Metrics (via DAX)
@@ -107,20 +111,15 @@ Custom DAX measures power all dynamic KPIs and visuals:
 - Version control prevents duplicate data from being included
 - DAX-based dynamic filtering and comparison logic enables efficient period analysis
 
----
-
-## 📷 Screenshots
-
-_Include redacted or dummy-data screenshots of each report page here._
 
 ---
 
-## 🔗 Files
+## 🔗 Files & Access
 
-- `/data/` – Dummy dataset  
-- `/pbix/` – Power BI report file  
-- `/sql/` – SQL transformation scripts  
-- `README.md` – This file  
+- [Dummy Dataset](data/dax_measures.md) – Dummy dataset  
+- [Power BI Report (.pbix)](Global_Revenue_BI_Report.pbix) – Interactive report  
+- [DAX Measures](docs/dax_measures.md) – DAX Measures used across the BI report
+
 
 ---
 
