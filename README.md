@@ -28,7 +28,6 @@ I created this dashboard to give our team full control over how we explore, anal
 
 - **Power BI (Desktop)**
 - **DAX** for dynamic calculations
-- **SQL** for structured data transformation (pre-model)
 - **Folder-based ingestion logic** for version control
 - **Bookmarks, tooltips, slicers** for UX
 
